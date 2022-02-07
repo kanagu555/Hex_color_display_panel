@@ -1,0 +1,31 @@
+
+.left-container {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  border-right-style: groove;
+}
+
+.flex-input{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+/* .input-width{
+    width: auto;
+} */
+
+.span-error{
+  color: red;
+}
+
+.btn-select{
+    margin-top: 10px;
+}

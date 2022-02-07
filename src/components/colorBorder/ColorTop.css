@@ -1,0 +1,31 @@
+.color-top-main {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.color-top-1 {
+  width: 10em;
+  height: 7em;
+  background-color: #fea47f;
+}
+.color-top-2 {
+  width: 10em;
+  height: 7em;
+  background-color: #25ccf7;
+}
+.color-top-3 {
+  width: 10em;
+  height: 7em;
+  background-color: #eab543;
+}
+.color-top-4 {
+  width: 10em;
+  height: 7em;
+  background-color: #55e6c1;
+}
+.color-top-5 {
+  width: 10em;
+  height: 7em;
+  background-color: #cad3c8;
+}

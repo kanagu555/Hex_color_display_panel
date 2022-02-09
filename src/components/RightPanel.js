@@ -5,7 +5,7 @@ const RightPanel = (props) => {
     return (
         
         <div className="right-container" style={{backgroundColor:`${props.onRight}`}}>
-            Color will update here
+            Your Color will update here
         </div>
     )
 }
